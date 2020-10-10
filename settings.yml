@@ -1,0 +1,6 @@
+general:
+  debug: true
+
+database:
+  sqlalchemy_database_uri: sqlite:///copper.db
+  sqlalchemy_database_echo: true
